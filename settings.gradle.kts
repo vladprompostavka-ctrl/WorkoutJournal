@@ -4,4 +4,4 @@ dependencyResolutionManagement {
     repositories { google(); mavenCentral() }
 }
 rootProject.name = "WorkoutJournal"
-include(":app")
+include(":app", ":gameapp")
